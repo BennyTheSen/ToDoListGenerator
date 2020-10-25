@@ -1,14 +1,27 @@
+### Change Description:
+
+Please describe in some details, what your Pull Request does.
+
+
+### Linked Issues:
+
+Please list Issues this Pull Request closes:
+
+Closes #<Issue-ID>
+
+
 ### All Submissions:
 
-* [ ] Have you followed the guidelines in our Contributing document?
+<!-- * [ ] Have you followed the guidelines in our Contributing document? -->
 * [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
+* [ ] Have you linked your Pull Request to an Issue?
 
-<!-- You can erase any parts of this template not applicable to your Pull Request. -->
 
 ### New Feature Submissions:
 
 1. [ ] Does your submission pass tests?
 2. [ ] Have you lint your code locally prior to submission?
+
 
 ### Changes to Core Features:
 
