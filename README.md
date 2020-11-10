@@ -20,11 +20,20 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/BennyTheSen/ToDoListGenerator/CI?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/BennyTheSen/ToDoListGenerator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/BennyTheSen/ToDoListGenerator?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/BennyTheSen/ToDoListGenerator?style=social)
-![GitHub issues](https://img.shields.io/github/issues-raw/BennyTheSen/ToDoListGenerator?style=social)
+<p align="center">
+  <a href="https://github.com/BennyTheSen/ToDoListGenerator/actions?query=workflow%3ACI" alt="Build">
+    <img src="https://img.shields.io/github/workflow/status/BennyTheSen/ToDoListGenerator/CI?style=social" /></a>
+  <a href="https://github.com/BennyTheSen/ToDoListGenerator/issues" alt="Issues">
+    <img src="https://img.shields.io/github/issues-raw/BennyTheSen/ToDoListGenerator?style=social" /></a>
+  <a href="https://github.com/BennyTheSen/ToDoListGenerator/pulls" alt="Pull Requests">
+    <img src="https://img.shields.io/github/issues-pr-raw/BennyTheSen/ToDoListGenerator?style=social" /></a>
+  <a href="https://github.com/BennyTheSen/ToDoListGenerator/graphs/contributors" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/BennyTheSen/ToDoListGenerator?style=social" /></a>
+  <a href="https://github.com/BennyTheSen/ToDoListGenerator/network/members" alt="Forks">
+    <img src="https://img.shields.io/github/forks/BennyTheSen/ToDoListGenerator?style=social" /></a>
+  <a href="https://github.com/BennyTheSen/ToDoListGenerator/stargazers" alt="Stars">
+    <img src="https://img.shields.io/github/stars/BennyTheSen/ToDoListGenerator?style=social" /></a>
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
