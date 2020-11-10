@@ -19,6 +19,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 <p align="center">
   <a href="https://github.com/BennyTheSen/ToDoListGenerator/actions?query=workflow%3ACI" alt="Build">
     <img src="https://img.shields.io/github/workflow/status/BennyTheSen/ToDoListGenerator/CI?style=social" /></a>
@@ -32,7 +33,6 @@
     <img src="https://img.shields.io/github/forks/BennyTheSen/ToDoListGenerator?style=social" /></a>
   <a href="https://github.com/BennyTheSen/ToDoListGenerator/stargazers" alt="Stars">
     <img src="https://img.shields.io/github/stars/BennyTheSen/ToDoListGenerator?style=social" /></a>
-
 </p>
 
 <!-- PROJECT LOGO -->
