@@ -19,14 +19,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/BennyTheSen/ToDoListGenerator/CI?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/BennyTheSen/ToDoListGenerator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/BennyTheSen/ToDoListGenerator?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/BennyTheSen/ToDoListGenerator?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/BennyTheSen/ToDoListGenerator?style=social)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -160,7 +158,7 @@ Project Link: [https://github.com/BennyTheSen/ToDoListGenerator](https://github.
 ## Acknowledgements
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* []()
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
 * []()
 
 
@@ -169,16 +167,10 @@ Project Link: [https://github.com/BennyTheSen/ToDoListGenerator](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BennyTheSen/repo.svg?style=flat-square
 [contributors-url]: https://github.com/BennyTheSen/ToDoListGenerator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BennyTheSen/repo.svg?style=flat-square
 [forks-url]: https://github.com/BennyTheSen/ToDoListGenerator/network/members
-[stars-shield]: https://img.shields.io/github/stars/BennyTheSen/repo.svg?style=flat-square
 [stars-url]: https://github.com/BennyTheSen/ToDoListGenerator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BennyTheSen/repo.svg?style=flat-square
 [issues-url]: https://github.com/BennyTheSen/ToDoListGenerator/issues
-[license-shield]: https://img.shields.io/github/license/BennyTheSen/repo.svg?style=flat-square
 [license-url]: https://github.com/BennyTheSen/ToDoListGenerator/blob/main/LICENCE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/benny-m%C3%BCller-a0219a166/
 [product-screenshot]: images/screenshot.png
