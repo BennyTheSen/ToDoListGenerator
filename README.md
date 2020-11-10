@@ -19,7 +19,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/BennyTheSen/ToDoListGenerator/CI?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/BennyTheSen/ToDoListGenerator?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/BennyTheSen/ToDoListGenerator?style=social)
