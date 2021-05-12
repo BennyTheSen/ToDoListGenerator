@@ -1,1 +1,9 @@
-Benny Mueller
+Contributors
+------------
+
+Current team:
+* Benny Mueller: maintainer, contributor
+
+We would not be here without folks that contributed patches, pull requests,
+issues and their time to my project. We're incredibly grateful to all of these
+contributors, currently only myself lol:
