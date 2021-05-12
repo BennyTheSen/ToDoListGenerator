@@ -52,12 +52,12 @@ your patch gets accepted.
 - Write a comprehensive commit message
 
 - Relate your change to an issue in the tracker if such an issue exists (see
-  `Closing issues via commit messages`_ of the GitHub documentation for more
+  https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue of the GitHub documentation for more
   information on this)
 
 - Document your change, if it is a non-trivial one.
 
-- Send a pull request from GitHub (see `About pull requests`_ for more insight
+- Send a pull request from GitHub (see https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests for more insight
   about this topic)
 
 
